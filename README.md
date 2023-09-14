@@ -6,6 +6,8 @@ It was made over a 4 day period leading up to the submission deadline on Septemb
 
 I used some art from the free Kenney 1-bit Pack https://kenney.nl/assets/1-bit-pack.
 
+I wrote a little bit about it on my blog: https://imtoospexy.com/blog/js13k2023-13th-century/
+
 You can play it here: https://js13kgames.com/entries/the-horde-the-horde-the-horde
 
 # Gameplay and Controls
