@@ -1,5 +1,5 @@
 # js13k2023 - The Horde! The Horde! The Horde!
-My entry for the 2023 js13kgames.com competition the theme was "13th Century".
+My entry for the 2023 js13kgames.com competition. The theme was "13th Century".
 
 It was made over a 4 day period leading up to the submission deadline on September 
 13th 2023.
